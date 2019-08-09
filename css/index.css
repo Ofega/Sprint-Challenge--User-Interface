@@ -238,6 +238,7 @@ nav li a:hover {
     padding-right: 0;
 }
 
+/* ===About=== */
 .is-about-content .text-container {
     padding: 0 1.5rem 1.5rem;
 }
@@ -266,6 +267,12 @@ nav li a:hover {
     margin-top: 1rem;
 }
 
+
+/* ===Contact Page Form=== */
+form {
+    padding: 2rem 1.5rem 1.5rem;
+    border-top: 2px dashed #000;
+}
 
 /* ===Footer=== */
 
